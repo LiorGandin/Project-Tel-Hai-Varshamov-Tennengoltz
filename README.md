@@ -28,11 +28,6 @@ all the code is written in Python3
 
 Instructions
 
-How to download:
-
-git clone https://github.com/blabla
-
-
 from the file Varshamov_Tennengoltz_Code tou need the class Vershamov_Tenengoltz to encode and decode:
 
 from Varshamov_Tennengoltz_Code import Vershamov_Tenengoltz
